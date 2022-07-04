@@ -1,0 +1,7 @@
+design a blog website with:
+>two heading each with a paragraph of 100 words
+>the headings should have a color of gold
+>the background color should be black
+> add a list of other block topics
+> use external css for all your styling
+>apply a different bg,color and font-size using media query
